@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+hospital-service/src/main/resources/application.yml
+
